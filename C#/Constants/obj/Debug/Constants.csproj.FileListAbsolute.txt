@@ -1,0 +1,9 @@
+D:\temp\AuthorizationServer\AuthorizationServer\Constants\bin\Debug\Constants.dll
+D:\temp\AuthorizationServer\AuthorizationServer\Constants\bin\Debug\Constants.pdb
+D:\temp\AuthorizationServer\AuthorizationServer\Constants\obj\Debug\Constants.dll
+D:\temp\AuthorizationServer\AuthorizationServer\Constants\obj\Debug\Constants.pdb
+E:\OWIN OAuth 2.0 Authorization Server\C#\Constants\bin\Debug\Constants.dll
+E:\OWIN OAuth 2.0 Authorization Server\C#\Constants\bin\Debug\Constants.pdb
+E:\OWIN OAuth 2.0 Authorization Server\C#\Constants\obj\Debug\Constants.csproj.CoreCompileInputs.cache
+E:\OWIN OAuth 2.0 Authorization Server\C#\Constants\obj\Debug\Constants.dll
+E:\OWIN OAuth 2.0 Authorization Server\C#\Constants\obj\Debug\Constants.pdb
